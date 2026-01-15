@@ -31,9 +31,9 @@ Each CSV is loaded into a Pandas DataFrame (voo_df, vti_df, qqq_df).
 	•	Helps evaluate how different levels of IT exposure affect volatility and returns
 	•	Highlights which ETFs are more resilient during market stress
 
-✅Analysis / Results
+✅ Analysis / Results
 	•	QQQ experienced the largest drawdowns due to its heavy IT sector exposure.
 	•	VTI had smaller declines, reflecting its broader diversification.
 	•	VOO was the least affected, with minimal drawdowns.
 	•	Overall, all three ETFs recovered after market dips.
-	•	Notably, all ETFs were impacted by the U.S. tariff announcement last April, showing how macroeconomic events affect performance.
+	•	During the analysis, I observed that the U.S. tariff announcement last April had a greater impact on all three ETFs than the IT bubble itself, highlighting how macroeconomic and policy-driven events can outweigh sector-specific risks.
